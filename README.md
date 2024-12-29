@@ -13,9 +13,8 @@ This project was developed by Esperanza María Laó Amores as part of the Master
 4. [Usage](#usage)
 5. [File Structure](#file-structure)
 6. [Results](#results)
-7. [Reproducibility](#reproducibility)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -40,16 +39,35 @@ This project explores the implementation of two data augmentation techniques des
    git clone https://github.com/elaoUOC/TFM_Data-augmentation-models-for-improved-indoor-positioning-accuracy-using-RSS-Fingerprinting.git
    cd TFM_Data-augmentation-models-for-improved-indoor-positioning-accuracy-using-RSS-Fingerprinting
 
+---
+
 ## Usage
+1. Open the Jupyter Notebooks in the repository for:
+    - Data preprocessing.
+    - Data augmentation training and evaluation.
+3. Adjust the configuration parameters in the notebook to use your dataset.
+
+---
+
 ## File Structure
+Notebooks/: Contains Jupyter Notebooks for data preprocessing, augmentation, and evaluation.
+Data/: Example datasets used.
+Output/: Visualizations of experiments.
+
+---
 
 ## Results
 The implemented techniques demonstrated significant reductions in time and resources required for database creation.
 Results highlight the generalizability of the techniques across datasets, achieving consistent improvements in positioning accuracy.
 
-## Reproducibility
+![Results Plot](Output/Comparison with and without Data Augmentation.png)
+
+---
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
 
 ## Acknowledgements
 This repository was developed as part of the Master's Thesis for the **Master's Degree in Data Science** at [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu). I would like to express my gratitude to my thesis supervisor, for their guidance, support, and feedback throughout the project. 
