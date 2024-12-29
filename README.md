@@ -50,9 +50,9 @@ This project explores the implementation of two data augmentation techniques des
 ---
 
 ## File Structure
-Notebooks/: Contains Jupyter Notebooks for data preprocessing, augmentation, and evaluation.
-Data/: Example datasets used.
-Output/: Visualizations of experiments.
+- Notebooks/: Contains Jupyter Notebooks for data preprocessing, augmentation, and evaluation.
+- Data/: Example datasets used.
+- Output/: Visualizations of experiments.
 
 ---
 
