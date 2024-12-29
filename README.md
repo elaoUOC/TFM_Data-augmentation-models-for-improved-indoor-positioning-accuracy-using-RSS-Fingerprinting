@@ -60,7 +60,8 @@ This project explores the implementation of two data augmentation techniques des
 The implemented techniques demonstrated significant reductions in time and resources required for database creation.
 Results highlight the generalizability of the techniques across datasets, achieving consistent improvements in positioning accuracy.
 
-![Results Plot](Output/Comparison with and without Data Augmentation.png)
+![Results Plot](Output/Comparison%20with%20and%20without%20Data%20Augmentation.png)
+
 
 ---
 
